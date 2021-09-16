@@ -1,0 +1,146 @@
+li {
+  list-style: none;
+}
+.header {
+  height: 80px;
+}
+.header-list li {
+  float: right;
+  padding: 15px 20px ;
+  font-size: 30px;
+}
+.header-list a {
+  text-decoration: none;
+}
+.Name h1 {
+  margin: 0 auto;
+  text-align: center;
+  background-color:black ;
+  color: aliceblue;
+  font-size: 100px;
+}
+
+.About {
+  padding-top: 1px;
+  height: 850px;
+  text-align: center;
+  background-image: url(file:///C:/Users/Miyano/Desktop/portfolio/imgs/000KZ21329.jpg.webp);
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  background-size:cover;
+  font-size: 20px
+}
+.About h1 {
+  padding-top: 50px;
+}
+.About img {
+  border-radius: 50%;
+  width:  400px;
+  height: 400px;
+}
+
+.Skill {
+  padding-top: 1px;
+  height: 850px;
+  text-align: center;
+  background-image: url(file:///C:/Users/Miyano/Desktop/portfolio/imgs/shikun81421092.jpg.webp);
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  background-size:cover;
+  color: white;
+  font-size: 20px
+}
+.Skill h1 {
+  padding-top: 50px;
+}
+.Skill img {
+  border-radius: 50%;
+  width:  400px;
+  height: 400px;
+}
+.item {
+  padding-top:100px;
+  padding-bottom: 300px;
+  display: flex;
+  justify-content: space-around;
+  }
+.item1:hover img{
+  opacity: 0.6;
+  cursor: pointer;
+}
+.item2:hover img{
+  opacity: 0.6;
+  cursor: pointer;
+}
+.item3:hover img{
+  opacity: 0.6;
+  cursor: pointer;
+}
+.item4:hover img{
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.Service {
+  padding-top: 1px;
+  height: 850px;
+  text-align: center;
+  background-image: url(file:///C:/Users/Miyano/Desktop/portfolio/imgs/AMEMAN1222030.jpg.webp);
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  background-size:cover; 
+  color: white;
+  font-size: 20px
+}
+.Service h1 {
+  padding-top: 50px;
+}
+.menu {
+  padding-top:50px;
+  padding-bottom: 100px;
+  padding-right: 100px;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 150px;
+  color: white;
+  font-size: 20px
+}
+.h2 {
+padding-top: 150px;
+}
+.Service img {
+  width:  350px;
+  height: 350px;
+}
+
+.Works {
+  padding-top: 1px;
+  height: 850px;
+  text-align: center;
+  background-image: url(file:///C:/Users/Miyano/Desktop/portfolio/imgs/247RED20404A.jpg.webp);
+  background-repeat: no-repeat;
+  background-position:50% 50%;
+  background-size:cover; 
+  color: white;
+  font-size: 20px
+}
+.Works h1 {
+  padding-top: 50px;
+}
+.Works-menu {
+  padding-top:100px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: space-around;
+  }
+  .Works img {
+    border-radius: 50%;
+    width:  400px;
+    height: 400px;
+  }
+
+  img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+  }
